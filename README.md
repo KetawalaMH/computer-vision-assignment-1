@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ## README
 
 # EC7212 – Computer Vision and Image Processing
@@ -76,7 +74,7 @@ This repository contains Python code (for Google Colab) that demonstrates basic 
 
 ### Author
 
-- [Your Name]
+- Malshan Hasaranga
 - EC7212 – Computer Vision and Image Processing
 
 ---
